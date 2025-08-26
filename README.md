@@ -1,16 +1,3 @@
-Got it 👍 I’ll prepare a **complete README.md** for your project with:
-
-* Title
-* Project Description
-* Dataset Information
-* Features
-* Installation & Running Instructions
-* How the Predictor Works
-* Deployment Section (where you can later put your **working app link**)
-
-Here’s the full README draft 👇
-
----
 
 # 📘 Student Exam Performance Predictor
 
